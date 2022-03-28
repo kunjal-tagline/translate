@@ -5,8 +5,11 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "start:fr": "ng serve --configuration=fr",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "e2e": "ng e2e",
+    "extract": "ng extract-i18n --output-path=locale"
   },
   "private": true,
   "dependencies": {
