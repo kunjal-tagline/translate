@@ -24,6 +24,14 @@
           <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="Greetings" datatype="html">
+      <source>Have a nice day</source>
+      <target>Passez une bonne journée</target>
+       <!-- <context-group purpose="location">
+          <context context-type="sourcefile">app\app.component.ts</context>
+          <context context-type="linenumber">4</context> 
+        </context-group> -->
+      </trans-unit>
     </body>
   </file>
 </xliff>
